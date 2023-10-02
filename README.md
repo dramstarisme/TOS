@@ -1,5 +1,5 @@
 # TOS
-TOS (Time Operating System) is the next generation operating system of immersive 3D devices.
+
 **Global Developer Call: Unleash Your Creativity with Time OS (TOS)**
 
 Are you ready to shape the future of 3D-enabled operating systems? We invite developers from every corner of the globe to join us in crafting Time OS (TOS), a revolutionary platform that will redefine the way the world interacts with technology.
